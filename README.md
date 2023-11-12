@@ -7,7 +7,13 @@ This project demonstrates the use of Stateless and Stateful widgets in Flutter, 
 1. Clone the [repository](https://github.com/ifirdavs/flutter-widgets-practice.git).
 2. Open the project in your preferred IDE (e.g., VS Code or Android Studio).
 3. Ensure you have the Flutter SDK set up and an emulator or physical device connected.
-4. Run the `main.dart` file.
+4. Install the dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+5. Run the `main.dart` file.
 
 ## Code Explanation
 
